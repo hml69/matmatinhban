@@ -7,7 +7,6 @@ Một ứng dụng web thú vị giúp bạn mã hóa văn bản thành chuỗi 
 - **Mã hóa chính xác 100%**: Sử dụng thuật toán mã hóa byte-to-emoji cố định, đảm bảo văn bản giải mã khớp hoàn toàn với bản gốc (bao gồm cả tiếng Việt có dấu).
 - **Tốc độ tức thì**: Việc chuyển đổi diễn ra ngay khi bạn gõ phím, không cần chờ đợi phản hồi từ máy chủ.
 - **Giao diện hiện đại**: Thiết kế tối giản, tinh tế với hiệu ứng chuyển động mượt mà từ thư viện `motion`.
-- **Hỗ trợ PWA (Progressive Web App)**: Có thể cài đặt trực tiếp vào màn hình chính trên điện thoại (iOS/Android) và máy tính như một ứng dụng thực thụ.
 - **Trang Donate tích hợp**: Hỗ trợ tác giả qua PayPal và ngân hàng BIDV (kèm mã QR và nút copy tiện lợi).
 - **Responsive**: Hiển thị hoàn hảo trên mọi kích thước màn hình.
 
