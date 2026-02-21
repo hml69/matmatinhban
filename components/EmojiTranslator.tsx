@@ -212,7 +212,7 @@ export default function EmojiTranslator() {
       </motion.div>
 
       <footer className="mt-20 text-center text-slate-400 text-sm">
-        <p>© {new Date().getFullYear()} Ngôn ngữ Tình Bạn • Developed by Phạm Gia Huy</p>
+        <p>© {new Date().getFullYear()} Mật mã Tình Bạn • Developed by Phạm Gia Huy</p>
       </footer>
     </div>
   )
