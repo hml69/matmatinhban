@@ -1,4 +1,4 @@
-# ✨ Mật mã Tình Bạn (Emoji Cipher)
+# ✨ Mật mã Tình Bạn (Emoji Translator)
 
 Một ứng dụng web thú vị giúp bạn mã hóa văn bản thành chuỗi Emoji và giải mã ngược lại với độ chính xác tuyệt đối 100%. Đây là cách hoàn hảo để gửi những tin nhắn "bí mật" cho bạn bè mà không ai có thể hiểu được nếu không có bộ giải mã này.
 
