@@ -13,7 +13,7 @@ const spaceGrotesk = Space_Grotesk({
 })
 
 export const metadata = {
-  title: 'Ngôn ngữ Tình Bạn - Emoji Translator',
+  title: 'Mật mã Tình Bạn - Emoji Translator',
   description: 'Dịch văn bản thành emoji và ngược lại',
 };
 
