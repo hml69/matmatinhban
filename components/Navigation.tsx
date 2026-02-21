@@ -25,11 +25,9 @@ export default function Navigation() {
     <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-slate-100">
       <div className="max-w-4xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
-          <Link href="/" className="flex items-center gap-2 group">
-            <div className="w-8 h-8 bg-orange-500 rounded-lg flex items-center justify-center text-white font-bold group-hover:rotate-12 transition-transform">
-              ✨
-            </div>
-            <span className="font-display font-bold text-slate-900 tracking-tight">Mật mã Tình Bạn</span>
+          <Link href="/" className="flex items-center group">
+            <span className="font-display font-bold text-slate-900 text-xl tracking-tight">Mật mã</span>
+            <span className="font-display font-bold italic text-orange-500 text-xl tracking-tight ml-1.5 transition-transform group-hover:scale-105">Tình Bạn</span>
           </Link>
 
           {/* Desktop Menu */}
